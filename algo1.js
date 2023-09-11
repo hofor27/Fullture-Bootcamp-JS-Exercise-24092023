@@ -1,4 +1,4 @@
-// Initialize variables A and B
+// Initialize variables A and B in our Algorithm
 let A = 0;
 let B = 0;
 
